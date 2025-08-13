@@ -9,3 +9,5 @@ while cont <= 10:
     termo += razao
     cont += 1
 print('FIM!')
+
+#Parei em 5:53 no vídeo do guanabara
